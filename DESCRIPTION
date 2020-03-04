@@ -1,0 +1,18 @@
+Package: naptools
+Title: Collected Functions and Data for Research
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Nicholas",
+           family = "Potter",
+           role = c("aut", "cre"),
+           email = "potter.nicholas@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 2.1.0)
+Imports: 
+    dplyr
+RoxygenNote: 7.0.2
